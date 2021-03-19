@@ -14,7 +14,7 @@ Projet en cours actuellement :
 
 ## Tu peux me retrouver sur les réseaux :
 
-- [Discord](dsc.bio/slendymilky)
+- [Discord](https://dsc.bio/slendymilky)
 - [Serveur Discord](https://discord.com/invite/zaE8rKaWDQ)
 - [Youtube](https://www.youtube.com/channel/UC-i4k6L0R70vkK0zE8Buj5Q)
 
