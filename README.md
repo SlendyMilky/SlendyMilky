@@ -10,7 +10,7 @@ Projet en cours actuellement :
 
 - Je bosse sur [Realya](https://realya.ch) qui est un site regroupant des isos au même endroit et surtout se voulant le plus simple possible... pas de pub, pas de tracking etc juste de l'utilité.
 
-- Un site de documentation simple [www.slyincdoc.ch](https://www.slyincdoc.ch), c'est pas de la doc technique, c'est des tutos simple mais utile.
+- Un site de documentation simple [docs.realya.ch](https://docs.realya.ch), c'est pas de la doc technique, c'est des tutos simple mais utile.
 
 ## Tu peux me retrouver sur les réseaux :
 
