@@ -1,6 +1,6 @@
 # Slendy_Milky
 
-Adieu ! Moi c'est slendy, ou Yann IRL.. Je suis un administrateur système passionné par... roulement de tambour... l'administration système et réseau !
+Adieu ! Moi c'est slendy.. Je suis un administrateur système passionné par... roulement de tambour... l'administration système et réseau !
 
 Depuis maintenant environ 5 ans je construis, détruit et recontruit mon installation personnelle... Pour le moment la majorité des mes Self-Host sont fonctionnel donc je suis tranquille.
 
