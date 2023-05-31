@@ -75,8 +75,8 @@
 <a href="https://github.com/SlendyMilky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SlendyMilky&rank_icon=github&theme=transparent"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlendyMilky&theme=transparent&utcOffset=8"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlendyMilky&theme=transparent" /></a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlendyMilky&theme=transparent"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent"/></a>
 
 </a>
 </p>
