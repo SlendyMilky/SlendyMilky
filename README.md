@@ -74,8 +74,8 @@
 <p align="center">
 <a href="https://github.com/SlendyMilky">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SlendyMilky&rank_icon=github&theme=transparent"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlendyMilky&theme=transparent&utcOffset=8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent"/>
-  <img height="180em" src="https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlendyMilky&theme=transparent" /></a>
 
 </a>
