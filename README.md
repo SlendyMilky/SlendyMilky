@@ -65,12 +65,10 @@
 
 <h3><b>📊 GitHub Stats</b></h3>
 
-| | |
-| --- | --- |
-|![GitHub Streak](https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D)|![SlendyMilky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlendyMilky&rank_icon=github&theme=transparent)|
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent)
-
-</div>
+<p align="center">
+<a href="https://github.com/SlendyMilky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SlendyMilky&rank_icon=github&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D" /></a>
+</a>
+</p>
