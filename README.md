@@ -21,14 +21,15 @@
 
 ### <b>📖 About Me</b>
 
-- 🎓 22-year-old Linux System Administrator passionate about technology and open-source.
+- 🎓 22 year old Linux System Administrator passionate about technology and open-source.
 - 💻 Skilled in network management with Ubiquiti, HPE, and Cisco devices.
-- 🖥️ Proficient in Windows, macOS, and Linux systems.
+- 🖥️ Proficient in Linux, macOS, and Windows systems.
 - 📜 Experienced in scripting with Bash and Ansible.
 - 🐧 Well-versed in RHEL-based, DEB-based, and Alpine Linux distributions.
 - 🛠️ Familiar with virtualization platforms such as Proxmox, VMware, and Hyper-V.
 - 🐳 Knowledgeable in container technologies like Docker, Podman, and LXC.
 - 🗃️ Experienced in storage solutions like CEPH, S3, and NAS/SAN.
+
 - 🌱 Currently improving my Bash scripting skills and learning the art of promptings iA.
 - 📚 Exploring the exciting world of Kubernetes.
 
@@ -72,3 +73,7 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D" /></a>
 </a>
 </p>
+
+<h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
+
+<h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
