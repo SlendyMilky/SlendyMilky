@@ -29,16 +29,15 @@
 - 🛠️ Familiar with virtualization platforms such as Proxmox, VMware, and Hyper-V.
 - 🐳 Knowledgeable in container technologies like Docker, Podman, and LXC.
 - 🗃️ Experienced in storage solutions like CEPH, S3, and NAS/SAN.
-
 - 🌱 Currently improving my Bash scripting skills and learning the art of promptings iA.
 - 📚 Exploring the exciting world of Kubernetes.
 
 ### <b>🎯 Things i want to do</b>
 
-- 🤖 Automate my GitHub profile
-- 🚀 Share my n8n projects
-- 🔗 Share my new website labby.ch
-- 📚 Help new self-hosters with documentation created on labby.ch
+- 🤖 Automate my GitHub profile.
+- 🚀 Share my n8n projects.
+- 🔗 Share my new website labby.ch.
+- 📚 Help new self-hosters with documentation created on labby.ch.
 
 ### <b>🔧 Tech Stack</b>
 
