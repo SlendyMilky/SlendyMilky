@@ -77,7 +77,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SlendyMilky&theme=transparent&utcOffset=8"/>
   <br>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SlendyMilky&theme=transparent"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent"/></a>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=small&theme=transparent"/></a>
 </a>
 </p>
 
