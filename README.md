@@ -1,11 +1,23 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <div align="center">
 
 # 👋 Hi there, I'm Slendy_Milky ! 👨‍💻
 ## 🌟 Linux System Administrator | Network Enthusiast | Scripting Ninja 🚀
 
 </div>
+
+<h3><b>🌐 Connect with Me</b></h3>
+                            
+<div id="header" align="center">
+	<div id="badges">
+		<a href="https://www.linkedin.com/in/yann-solliard/">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=yellow&color=006afe" alt="LinkedIn Badge"/>
+		</a>
+		<a href="https://t.me/Slendy_Milky">
+			<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=black&labelColor=yellow&color=006afe" alt="Telegram Badge"/>
+		</a>
+	</div>
+</div>
+</hr>
 
 ### <b>📖 About Me</b>
 
@@ -28,7 +40,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-333333?style=for-the-badge&logo=apple&logoColor=999999)
 
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-333333?style=for-the-badge&logo=ubiquiti&logoColor=0551A0)
-![HPE](https://img.shields.io/badge/-HPE-333333?style=for-the-badge&logo=hpe&logoColor=00B388)
+![HPE](https://img.shields.io/badge/-HPE-333333?style=for-the-badge&logo=hp&logoColor=00B388)
 ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
 
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
@@ -50,19 +62,15 @@
 ![S3](https://img.shields.io/badge/-S3-333333?style=for-the-badge&logo=amazon-s3&logoColor=569A31)
 ![NAS/SAN](https://img.shields.io/badge/-NAS/SAN-333333?style=for-the-badge&logoColor=569A31)
 
-### <b>🌐 Connect with Me</b>
 
+<h3><b>📊 GitHub Stats</b></h3>
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="yann-solliard" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/yann-solliard?trk=profile-badge">Yann Solliard</a></div>
-                            
-              
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=wordpress)](https://www.yourwebsite.com)
+| | |
+| --- | --- |
+|![GitHub Streak](https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D)|![SlendyMilky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlendyMilky&rank_icon=github&theme=transparent)|
 
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SlendyMilky&layout=donut&theme=transparent)
 
-### <b>📊 GitHub Stats</b>
-
-![SlendyMilky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlendyMilky&show_icons=true&theme=transparent) 
-![GitHub Streak](https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D)
-
+</div>
