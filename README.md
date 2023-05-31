@@ -1,4 +1,4 @@
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
 <div align="center">
 
@@ -53,7 +53,8 @@
 ### <b>🌐 Connect with Me</b>
 
 
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="yann-solliard" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/yann-solliard?trk=profile-badge">Yann Solliard</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="yann-solliard" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/yann-solliard?trk=profile-badge">Yann Solliard</a></div>
+                            
               
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
 [![Website](https://img.shields.io/badge/-Website-333333?style=for-the-badge&logo=wordpress)](https://www.yourwebsite.com)
@@ -62,6 +63,6 @@
 
 ### <b>📊 GitHub Stats</b>
 
-![SlendyMilky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlendyMilky&show_icons=true&theme=transperant) 
+![SlendyMilky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SlendyMilky&show_icons=true&theme=transparent) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SlendyMilky&theme=transparent&date_format=j%20M%5B%20Y%5D)
 
