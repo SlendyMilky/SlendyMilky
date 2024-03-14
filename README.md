@@ -21,7 +21,7 @@
 
 ### <b>📖 About Me</b>
 
-- 🎓 22 year old Linux System Administrator passionate about technology and open-source.
+- 🎓 23 year old Linux System Administrator passionate about technology and open-source.
 - 💻 Skilled in network management with Ubiquiti, HPE, and Cisco devices.
 - 🖥️ Proficient in Linux, macOS, and Windows systems.
 - 📜 Experienced in scripting with Bash and Ansible.
