@@ -21,7 +21,7 @@
 
 ### <b>📖 About Me</b>
 
-- 🎓 23 year old Linux System Administrator passionate about technology and open-source.
+- 🎓 25 year old Linux System Administrator passionate about technology and open-source.
 - 💻 Skilled in network management with Ubiquiti, HPE, and Cisco devices.
 - 🖥️ Proficient in Linux, macOS, and Windows systems.
 - 📜 Experienced in scripting with Bash and Ansible.
@@ -82,4 +82,4 @@
 
 <h5 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h5>
 
-<h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
+<h5 align=center><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />Cette œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Licence Creative Commons Attribution - Pas d&#39;Utilisation Commerciale - Pas de Modification 4.0 International</a>.</h5>
