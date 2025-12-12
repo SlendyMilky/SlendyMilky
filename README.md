@@ -40,19 +40,6 @@
 
 ---
 
-### 🎯 Things I Want to Do
-
-<div align="left">
-
-- 🤖 Automate my GitHub profile
-- 🚀 Share my n8n projects
-- 🔗 Share my new website [labby.ch](https://labby.ch)
-- 📚 Help new self-hosters with documentation created on labby.ch
-
-</div>
-
----
-
 ### 🔧 Tech Stack
 
 #### Operating Systems
