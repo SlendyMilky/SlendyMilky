@@ -33,8 +33,25 @@
 - 🛠️ Familiar with **virtualization platforms** such as Proxmox, VMware, and Hyper-V
 - 🐳 Knowledgeable in **container technologies** like Docker, Podman, and LXC
 - 🗃️ Experienced in **storage solutions** like CEPH, S3, and NAS/SAN
-- 🌱 Currently improving my **Bash scripting skills** and learning the art of **AI promptings**
+- 🐍 Building tools and bots in **Python**, and tinkering with **Rust** on side projects
+- 🤖 Using **AI** day to day to automate, translate and prototype faster
 - 📚 Exploring the exciting world of **Kubernetes**
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | What it is |
+|---|---|
+| 🦁 [**RustyZoo**](https://github.com/RustyZoo/RustyZoo) | Open-source **Rust** reimplementation of Zoo Tycoon (2001). Bring your own game data. |
+| 🕰️ [**CFF-Clock**](https://github.com/SlendyMilky/CFF-Clock) | The iconic Swiss railway clock in JavaScript, live at [cff-clock.slyc.ch](https://cff-clock.slyc.ch). |
+| 🚉 [**stationboard**](https://github.com/SlendyMilky/stationboard) | A Swiss train departure board for any station, live at [stationboard.slyc.ch](https://stationboard.slyc.ch). |
+| 🛡️ [**weekly-cve-html**](https://github.com/SlendyMilky/weekly-cve-html) | Weekly report of high-severity CVEs, translated to French and published as a web page. |
+| 🤖 [**daddy_bot**](https://github.com/SlendyMilky/daddy_bot) | Modular Telegram bot in Python (aiogram). |
 
 </div>
 
@@ -53,6 +70,8 @@
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 #### Scripting & Automation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
