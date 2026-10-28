@@ -50,7 +50,6 @@
 | 🦁 [**RustyZoo**](https://github.com/RustyZoo/RustyZoo) | Open-source **Rust** reimplementation of Zoo Tycoon (2001). Bring your own game data. |
 | 🕰️ [**CFF-Clock**](https://github.com/SlendyMilky/CFF-Clock) | The iconic Swiss railway clock in JavaScript, live at [cff-clock.slyc.ch](https://cff-clock.slyc.ch). |
 | 🚉 [**stationboard**](https://github.com/SlendyMilky/stationboard) | A Swiss train departure board for any station, live at [stationboard.slyc.ch](https://stationboard.slyc.ch). |
-| 🛡️ [**weekly-cve-html**](https://github.com/SlendyMilky/weekly-cve-html) | Weekly report of high-severity CVEs, translated to French and published as a web page. |
 | 🤖 [**daddy_bot**](https://github.com/SlendyMilky/daddy_bot) | Modular Telegram bot in Python (aiogram). |
 
 </div>
